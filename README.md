@@ -1,4 +1,4 @@
-## Ey! Me llamo Nicolás. 
+## Hola! Me llamo Nicolás. 
 Soy de Tigre, Buenos Aires. Me gusta la musica, la buena comida, los deportes y obviamente codear. 
 
 ### Estemos en Contacto!
