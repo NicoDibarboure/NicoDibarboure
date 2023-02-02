@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 
 ## Hola! Me llamo Nicolás. 
