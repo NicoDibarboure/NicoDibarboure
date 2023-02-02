@@ -1,10 +1,7 @@
 <<<<<<< HEAD
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 
-## Ey! Me llamo Nicolás. 
-=======
 ## Hola! Me llamo Nicolás. 
->>>>>>> 56190e915de09a38997009bb716fdf1fda27f17a
 Soy de Tigre, Buenos Aires. Me gusta la musica, la buena comida, los deportes y obviamente codear. 
 
 ### Estemos en Contacto!
@@ -17,6 +14,6 @@ Soy de Tigre, Buenos Aires. Me gusta la musica, la buena comida, los deportes y 
 * <a href=https://github.com/NicoDibarboure/CodeaYa>Proyecto Personal</a> - Plataforma De Educacion
 
 ![Mis Stats en GitHub](https://github-readme-stats.vercel.app/api?username=NicoDibarboure&show_icons=true&theme=dark)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoDibarboure&show_icons=true&locale=en&layout=compact&theme=dark" alt="NicoDibarboure" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoDibarboure&show_icons=true&locale=en&theme=dark" alt="NicoDibarboure" /></p>
