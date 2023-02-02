@@ -1,3 +1,5 @@
+<img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
+
 ## Ey! Me llamo Nicolás. 
 Soy de Tigre, Buenos Aires. Me gusta la musica, la buena comida, los deportes y obviamente codear. 
 
