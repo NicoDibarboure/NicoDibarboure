@@ -1,3 +1,4 @@
+<h1 align="center">Hola! Me llamo Nicolás Dibarboure</h1>
 <h3 align="center">Soy un Jr Frontend Developer de Argentina ᴀʀ</h3>
 
 <br/>
@@ -27,7 +28,7 @@
 <h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,react" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,mysql" /><br>
 </div>
 
