@@ -13,6 +13,11 @@ Soy de Tigre, Buenos Aires. Me gusta la musica, la buena comida, los deportes y 
 * <a href=https://dibarboure-portfolio.vercel.app/>Portfolio</a>
 
 
-![Mis Stats en GitHub][(https://github-readme-stats.vercel.app/api?username=NicoCopilott)](https://github.com/anuraghazra/github-readme-stats)
+![Mis Stats en GitHub]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoDibarboure&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="NicoDibarboure" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoDibarboure&show_icons=true&locale=en&theme=midnight-purple" alt="NicoDibarboure" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoDibarboure&show_icons=true&locale=en&layout=compact&theme=dark" alt="NicoDibarboure" /></p>
 
